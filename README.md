@@ -2,7 +2,7 @@
 
 Um jogo simples de adivinhação de palavras desenvolvido em **React**. O jogador deve acertar a palavra secreta letra por letra, com um número limitado de tentativas.
 
-![Secret Word Game Screenshot](https://github.com/gsccoelho/secret-word/assets/your-screenshot-path)
+<!-- ![Secret Word Game Screenshot](https://github.com/gsccoelho/secret-word/assets/your-screenshot-path) -->
 
 ## 🚀 Demonstração
 
